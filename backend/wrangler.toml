@@ -1,0 +1,11 @@
+name = "backend"
+main = "src/index.ts"
+compatibility_date = "2024-10-26"
+compatibility_flags = [ "nodejs_compat" ]
+
+
+[vars]
+DATABASE_URL="your_database_url"
+
+
+jwt_secret = "your_secret"
