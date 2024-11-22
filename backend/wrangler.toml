@@ -5,7 +5,7 @@ compatibility_flags = [ "nodejs_compat" ]
 
 
 [vars]
-DATABASE_URL="your_database_url"
+DATABASE_URL="your_db"
 
 
 jwt_secret = "your_secret"
